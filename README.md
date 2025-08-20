@@ -1,4 +1,4 @@
-#Estudos ETEC
+# Estudos ETEC
 
 Este repositório contém meus projetos do primeiro semestre do curso Técnico em Desenvolvimento de Sistemas na ETEC.
 
